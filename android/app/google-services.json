@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "995279882983",
+    "firebase_url": "https://buy-book-back.firebaseio.com",
+    "project_id": "buy-book-back",
+    "storage_bucket": "buy-book-back.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995279882983:android:0d961e02bf261b9f",
+        "android_client_info": {
+          "package_name": "com.bilalfakhro.buybookback"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995279882983-aru1p0l50f9lm5u8072tgjbn8nf2s2tb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bilalfakhro.buybookback",
+            "certificate_hash": "04807db3776d3fa511a1feaaf9a558ff8fba3e4f"
+          }
+        },
+        {
+          "client_id": "995279882983-i2eqf4u632t03l6pk4oicllliavpopdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgFmpzepu2O8DgHxG_xg54-GwjsQMn72o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995279882983-i2eqf4u632t03l6pk4oicllliavpopdr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "995279882983-47766n367m5bjf2i01he7k9b45b080j4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bilalfakhro.buybookback"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

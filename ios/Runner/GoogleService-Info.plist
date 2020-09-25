@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>995279882983-47766n367m5bjf2i01he7k9b45b080j4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.995279882983-47766n367m5bjf2i01he7k9b45b080j4</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>995279882983-aru1p0l50f9lm5u8072tgjbn8nf2s2tb.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD2UcmXvEuIdY6v3uB-l2mTRgxbbYXSh0I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>995279882983</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.bilalfakhro.buybookback</string>
+	<key>PROJECT_ID</key>
+	<string>Buy Book Back</string>
+	<key>STORAGE_BUCKET</key>
+	<string>buy-book-back.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:995279882983:ios:0d961e02bf261b9f</string>
+	<key>DATABASE_URL</key>
+	<string>https://buy-book-back.firebaseio.com</string>
+</dict>
+</plist>
